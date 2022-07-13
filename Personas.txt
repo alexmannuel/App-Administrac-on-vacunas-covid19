@@ -1,0 +1,12 @@
+1,   Pepito Pérez Perea, 18, 1
+2,   María Rivera Arroyo, 46, 2
+3,   Alberto Fuentes Medina, 60, 2
+4,   Alexander cruz, 65, 0
+5,   Fabiola rodriguez, 80, 0
+6,   Ramon Olivera, 67, 0
+7,   Beatriz cortes, 57, 2
+8,   Carlos figueroa, 20, 1
+9,   Valentina Ibarrondo, 37, 1
+10,   Manuel Cabassa, 30, 2
+11,  Joan Alvarez, 27, 2
+14,  Jomar Soto, 28, 2

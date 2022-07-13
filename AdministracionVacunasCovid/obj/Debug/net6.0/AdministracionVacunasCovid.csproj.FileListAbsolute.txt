@@ -1,0 +1,15 @@
+C:\Users\alexm\OneDrive\Desktop\C# Practice\AdministracionVacunasCovid\AdministracionVacunasCovid\bin\Debug\net6.0\AdministracionVacunasCovid.exe
+C:\Users\alexm\OneDrive\Desktop\C# Practice\AdministracionVacunasCovid\AdministracionVacunasCovid\bin\Debug\net6.0\AdministracionVacunasCovid.dll
+C:\Users\alexm\OneDrive\Desktop\C# Practice\AdministracionVacunasCovid\AdministracionVacunasCovid\bin\Debug\net6.0\AdministracionVacunasCovid.deps.json
+C:\Users\alexm\OneDrive\Desktop\C# Practice\AdministracionVacunasCovid\AdministracionVacunasCovid\bin\Debug\net6.0\AdministracionVacunasCovid.runtimeconfig.json
+C:\Users\alexm\OneDrive\Desktop\C# Practice\AdministracionVacunasCovid\AdministracionVacunasCovid\bin\Debug\net6.0\AdministracionVacunasCovid.pdb
+C:\Users\alexm\OneDrive\Desktop\C# Practice\AdministracionVacunasCovid\AdministracionVacunasCovid\obj\Debug\net6.0\AdministracionVacunasCovid.csproj.AssemblyReference.cache
+C:\Users\alexm\OneDrive\Desktop\C# Practice\AdministracionVacunasCovid\AdministracionVacunasCovid\obj\Debug\net6.0\AdministracionVacunasCovid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\OneDrive\Desktop\C# Practice\AdministracionVacunasCovid\AdministracionVacunasCovid\obj\Debug\net6.0\AdministracionVacunasCovid.AssemblyInfoInputs.cache
+C:\Users\alexm\OneDrive\Desktop\C# Practice\AdministracionVacunasCovid\AdministracionVacunasCovid\obj\Debug\net6.0\AdministracionVacunasCovid.AssemblyInfo.cs
+C:\Users\alexm\OneDrive\Desktop\C# Practice\AdministracionVacunasCovid\AdministracionVacunasCovid\obj\Debug\net6.0\AdministracionVacunasCovid.csproj.CoreCompileInputs.cache
+C:\Users\alexm\OneDrive\Desktop\C# Practice\AdministracionVacunasCovid\AdministracionVacunasCovid\obj\Debug\net6.0\AdministracionVacunasCovid.dll
+C:\Users\alexm\OneDrive\Desktop\C# Practice\AdministracionVacunasCovid\AdministracionVacunasCovid\obj\Debug\net6.0\refint\AdministracionVacunasCovid.dll
+C:\Users\alexm\OneDrive\Desktop\C# Practice\AdministracionVacunasCovid\AdministracionVacunasCovid\obj\Debug\net6.0\AdministracionVacunasCovid.pdb
+C:\Users\alexm\OneDrive\Desktop\C# Practice\AdministracionVacunasCovid\AdministracionVacunasCovid\obj\Debug\net6.0\AdministracionVacunasCovid.genruntimeconfig.cache
+C:\Users\alexm\OneDrive\Desktop\C# Practice\AdministracionVacunasCovid\AdministracionVacunasCovid\obj\Debug\net6.0\ref\AdministracionVacunasCovid.dll

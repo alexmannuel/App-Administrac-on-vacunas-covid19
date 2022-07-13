@@ -1,0 +1,7 @@
+Proyecto de Administracion de Vacunas de Covid
+
+1.Crear clase Vacuna
+2.Crear clase Personas
+3.Comenzar a realizar Menu
+4.Crear metodo de Cargar datos
+5.Leer archivo que contiene datos de Vacuna y persona

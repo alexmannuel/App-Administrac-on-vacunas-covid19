@@ -1,0 +1,4 @@
+Compañia: Moderna, 502, 1998
+Compañia: Pfizer, 4000, 10000
+Compañia: Johnson & Johnson, 200, 5000
+Compañia: VacunaX, 3000, 12000
